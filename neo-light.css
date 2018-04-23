@@ -1,0 +1,13 @@
+.container{
+     width: 100% !important;
+}
+body, form, p, table, td, th {
+    color: #444 !important;
+    font-size: 11px !important;
+}
+.CodeMirror {
+    font-size: 11px !important;
+}
+p.line {
+    white-space: normal !important;
+}
